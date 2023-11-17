@@ -1,5 +1,5 @@
-requests
-beautifulsoup4
+requests #fetch data from webpage
+beautifulsoup4 # to search content from tags
 lxml
 html5lib
 dputils
